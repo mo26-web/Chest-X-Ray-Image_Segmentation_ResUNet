@@ -134,6 +134,6 @@ Use pretrained VGG16 for feature extraction.
 
 |               | precision     |recall    |f1-score |support|
 | ------------- |:-------------:| :-----: |:-----:   |-----:   |
-| Tuberculosis negative cases   | 0.90         | 0.90  |  0.84  |  84 |
+| Tuberculosis negative cases   | 0.90         | 0.90  |  0.90  |  84 |
 | Tuberculosis positive cases   |0.89          |  0.89  |  0.89   |    76  |
 | accuracy                      | 0.90         |  0.90  |  0.90      |    160   |
