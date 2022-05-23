@@ -22,7 +22,7 @@ X-ray images in this data set have been acquired from the tuberculosis control p
 </p>
 
 ## Data Augmetation
-Data augmentation in data analysis are techniques used to increase the amount of data by adding slightly modified copies of already existing data or newly created synthetic data from existing data. It acts as a regularizer and helps reduce overfitting when training a machine learning model.[1] It is closely related to oversampling in data analysis.
+Data augmentation in data analysis are techniques used to increase the amount of data by adding slightly modified copies of already existing data or newly created synthetic data from existing data. It acts as a regularizer and helps reduce overfitting when training a machine learning model. It is closely related to oversampling in data analysis.
 * create contrast images(v1)
 * create contrast images(v2)
 * create noise images
