@@ -76,4 +76,4 @@ Video Explaination: https://youtu.be/BOoBWRTpaKk
 | ------------- |:-------------:| -----:   |
 |  NEGATIVE     | 1.00          |   6082 |
 | POSITIVE      | 1.00          |      5918   |
-| accuracy      | 1.00          |     12000   |
+
