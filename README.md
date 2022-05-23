@@ -5,8 +5,10 @@ Lung segmentation for chest X-Ray images with ResUNet and UNet. In addition, fea
 Computer Vision (CV) has a lot of applications in medical diagnosis:
 * Dermatology
 * Ophthakmology
-* Histopathology.
+* Histopathology
+
 X-rays images are critical for the detection of lung cancer, pneumenia ... In this notebook you will learn:
+
 * Data pre-processing and  augmetation
 * Preprocess images properly for the train, validation and test sets.
 * Set-up neural networks to segment the images and make disease predictions on chest X-rays.
