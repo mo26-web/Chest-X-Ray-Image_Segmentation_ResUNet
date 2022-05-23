@@ -91,4 +91,18 @@ Video Explaination: https://youtu.be/BOoBWRTpaKk
 <p align="center">
 <a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/TB2.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/TB2.png" align="center"></a>
 </p>
+
+## Visualizing Samples
+### negative case
+
+<p align="center">
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/negative1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/negative1.png" align="center"></a>
+</p>
+
+### positive case
+
+<p align="center">
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/positive1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/positive1.png" align="center"></a>
+</p>
+
 ## Feature extraction
