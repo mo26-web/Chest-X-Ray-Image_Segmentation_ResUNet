@@ -81,6 +81,14 @@ Video Explaination: https://youtu.be/BOoBWRTpaKk
 
 * Exploratory data analysis
 * Feature extraction
-*Feed extracted features into MLP Neural Network for classification
+* Feed extracted features into MLP Neural Network for classification
 
+## Number of samples
+<p align="center">
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/TB1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/TB1.png" align="center"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/TB2.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/TB2.png" align="center"></a>
+</p>
 ## Feature extraction
