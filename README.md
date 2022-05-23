@@ -67,5 +67,5 @@ Video Explaination: https://youtu.be/BOoBWRTpaKk
 </p>
 
 <p align="center">
-<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results2.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results2.png" align="center"></a>
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results1.png" align="center"></a>
 </p>
