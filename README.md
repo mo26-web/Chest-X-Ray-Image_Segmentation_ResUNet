@@ -127,7 +127,7 @@ Use pretrained ResNet50 for feature extraction.
 | ------------- |:-------------:| :-----: |:-----:   |-----:   |
 | Tuberculosis negative cases   | 0.95         | 0.85  |  0.89  |  85 |
 | Tuberculosis positive cases   |0.85          |  0.95  |  0.89   |    75  |
-| accuracy                      | 0.89         |  0.849  |  0.89      |    160   |
+| accuracy                      | 0.89         |  0.89  |  0.89      |    160   |
 
 ### Results for Feature extraction (VGG16) and Classification
 Use pretrained VGG16 for feature extraction.
