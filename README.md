@@ -30,3 +30,8 @@ Data augmentation in data analysis are techniques used to increase the amount of
 <p align="center">
 <a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/2.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/2.png" align="center"></a>
 </p>
+
+# Approach for segmentation
+## U-Net
+U-Net is a convolutional neural network that was developed for biomedical image segmentation at the Computer Science Department of the University of Freiburg. The network is based on the fully convolutional network and its architecture was modified and extended to work with fewer training images and to yield more precise segmentations.
+## Deep-Residual-Unet
