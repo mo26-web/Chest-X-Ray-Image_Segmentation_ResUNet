@@ -42,8 +42,11 @@ U-Net is a convolutional neural network that was developed for biomedical image 
 ## Deep-Residual-Unet
 ResUNet, a semantic segmentation model inspired by the deep residual learning and UNet. An architecture that take advantages from both(Residual and UNet) models.
 Paper: https://arxiv.org/pdf/1711.10684.pdf
+
 Video Explaination: https://youtu.be/BOoBWRTpaKk
 
 <p align="center">
 <a href="https://github.com/nikhilroxtomar/Deep-Residual-Unet/raw/master/images/arch.png"><img src="https://github.com/nikhilroxtomar/Deep-Residual-Unet/raw/master/images/arch.png" align="center"></a>
 </p>
+# Results for segmentation
+## U-Net
