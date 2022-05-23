@@ -48,5 +48,24 @@ Video Explaination: https://youtu.be/BOoBWRTpaKk
 <p align="center">
 <a href="https://github.com/nikhilroxtomar/Deep-Residual-Unet/raw/master/images/arch.png"><img src="https://github.com/nikhilroxtomar/Deep-Residual-Unet/raw/master/images/arch.png" align="center"></a>
 </p>
+
 # Results for segmentation
 ## U-Net
+
+<p align="center">
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results4.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results4.png" align="center"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results3.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results3.png" align="center"></a>
+</p>
+
+## Residual-Unet
+
+<p align="center">
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results2.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results2.png" align="center"></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results2.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results2.png" align="center"></a>
+</p>
