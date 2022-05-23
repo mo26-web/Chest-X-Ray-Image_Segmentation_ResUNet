@@ -121,5 +121,19 @@ Use pretrained InceptionResNetV2 for feature extraction.
 | accuracy                      | 0.84         |  0.84  |  0.84      |    160   |
 
 ### Results for Feature extraction (ResNet50) and Classification
+Use pretrained ResNet50 for feature extraction.
+
+|               | precision     |recall    |f1-score |support|
+| ------------- |:-------------:| :-----: |:-----:   |-----:   |
+| Tuberculosis negative cases   | 0.95         | 0.85  |  0.89  |  85 |
+| Tuberculosis positive cases   |0.85          |  0.95  |  0.89   |    75  |
+| accuracy                      | 0.89         |  0.849  |  0.89      |    160   |
 
 ### Results for Feature extraction (VGG16) and Classification
+Use pretrained VGG16 for feature extraction.
+
+|               | precision     |recall    |f1-score |support|
+| ------------- |:-------------:| :-----: |:-----:   |-----:   |
+| Tuberculosis negative cases   | 0.90         | 0.90  |  0.84  |  84 |
+| Tuberculosis positive cases   |0.89          |  0.89  |  0.89   |    76  |
+| accuracy                      | 0.90         |  0.90  |  0.90      |    160   |
