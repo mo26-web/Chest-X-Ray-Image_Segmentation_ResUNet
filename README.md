@@ -34,4 +34,16 @@ Data augmentation in data analysis are techniques used to increase the amount of
 # Approach for segmentation
 ## U-Net
 U-Net is a convolutional neural network that was developed for biomedical image segmentation at the Computer Science Department of the University of Freiburg. The network is based on the fully convolutional network and its architecture was modified and extended to work with fewer training images and to yield more precise segmentations.
+
+<p align="center">
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/u-net-architecture.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/u-net-architecture.png" align="center"></a>
+</p>
 ## Deep-Residual-Unet
+ResUNet, a semantic segmentation model inspired by the deep residual learning and UNet. An architecture that take advantages from both(Residual and UNet) models.
+Paper: https://arxiv.org/pdf/1711.10684.pdf
+Video Explaination: https://youtu.be/BOoBWRTpaKk
+<p align="center">
+<a href="https://github.com/nikhilroxtomar/Deep-Residual-Unet/raw/master/images/arch.png
+"><img src="https://github.com/nikhilroxtomar/Deep-Residual-Unet/raw/master/images/arch.png
+" align="center"></a>
+</p>
