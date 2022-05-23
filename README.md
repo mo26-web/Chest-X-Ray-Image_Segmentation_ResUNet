@@ -96,13 +96,17 @@ Video Explaination: https://youtu.be/BOoBWRTpaKk
 ### negative case
 
 <p align="center">
-<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/negative1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/negative1.png" align="center" width="400" height="400"></a>
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/negative1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/negative1.png" align="center" width="300" height="300"></a>
 </p>
 
 ### positive case
 
 <p align="center">
-<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/positive1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/positive1.png" align="center" width="400" height="400"></a>
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/positive1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/positive1.png" align="center" width="300" height="300"></a>
 </p>
 
-## Feature extraction
+## Deep MLP Architecture (Classifier)
+
+<p align="center">
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/mlp1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/mlp1.png" align="center"></a>
+</p>
