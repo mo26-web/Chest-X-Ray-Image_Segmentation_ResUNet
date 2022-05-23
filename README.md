@@ -69,3 +69,11 @@ Video Explaination: https://youtu.be/BOoBWRTpaKk
 <p align="center">
 <a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/results1.png" align="center"></a>
 </p>
+
+## Comparison
+
+|               | Validation loss |support|
+| ------------- |:-------------:| -----:   |
+|  NEGATIVE     | 1.00          |   6082 |
+| POSITIVE      | 1.00          |      5918   |
+| accuracy      | 1.00          |     12000   |
