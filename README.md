@@ -111,7 +111,7 @@ Video Explaination: https://youtu.be/BOoBWRTpaKk
 <a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/mlp1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/mlp1.png" align="center"></a>
 </p>
 
-### Results for Feature extraction (InceptionResNetV2) and Classification
+## Results for Feature extraction (InceptionResNetV2) and Classification
 Use pretrained InceptionResNetV2 for feature extraction.
 
 |               | precision     |recall    |f1-score |support|
@@ -120,7 +120,7 @@ Use pretrained InceptionResNetV2 for feature extraction.
 | Tuberculosis positive cases   |0.88          |  0.80  |  0.84   |    83  |
 | accuracy                      | 0.84         |  0.84  |  0.84      |    160   |
 
-### Results for Feature extraction (ResNet50) and Classification
+## Results for Feature extraction (ResNet50) and Classification
 Use pretrained ResNet50 for feature extraction.
 
 |               | precision     |recall    |f1-score |support|
@@ -129,7 +129,7 @@ Use pretrained ResNet50 for feature extraction.
 | Tuberculosis positive cases   |0.85          |  0.95  |  0.89   |    75  |
 | accuracy                      | 0.89         |  0.89  |  0.89      |    160   |
 
-### Results for Feature extraction (VGG16) and Classification
+## Results for Feature extraction (VGG16) and Classification
 Use pretrained VGG16 for feature extraction.
 
 |               | precision     |recall    |f1-score |support|
