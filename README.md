@@ -15,3 +15,4 @@ X-ray images in this data set have been acquired from the tuberculosis control p
 * There is a slight abnormality in naming convention of masks.
 * Some images don't have their corresponding masks.
 * Images from the Shenzhen dataset has apparently smaller lungs as compared to the Montgomery dataset.
+**images and masks
