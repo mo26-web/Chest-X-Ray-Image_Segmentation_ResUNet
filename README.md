@@ -77,3 +77,10 @@ Video Explaination: https://youtu.be/BOoBWRTpaKk
 |  U-Net     | 7,759,521         |   0.03169 |
 | Residual-Unet     | 4,722,737         |     0.02861   |
 
+# Tuberculosis cases diagnosis
+
+* Exploratory data analysis
+* Feature extraction
+*Feed extracted features into MLP Neural Network for classification
+
+## Feature extraction
