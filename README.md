@@ -72,8 +72,8 @@ Video Explaination: https://youtu.be/BOoBWRTpaKk
 
 ## Comparison
 
-|               | Validation loss |support|
+|               | Number of parameters |validation loss|
 | ------------- |:-------------:| -----:   |
-|  NEGATIVE     | 1.00          |   6082 |
-| POSITIVE      | 1.00          |      5918   |
+|  U-Net     | 7,759,521         |   0.03169 |
+| Residual-Unet     | 4,722,737         |     0.02861   |
 
