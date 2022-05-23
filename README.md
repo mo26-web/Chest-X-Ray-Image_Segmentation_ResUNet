@@ -96,13 +96,13 @@ Video Explaination: https://youtu.be/BOoBWRTpaKk
 ### negative case
 
 <p align="center">
-<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/negative1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/negative1.png" align="center" width="300" height="300"></a>
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/negative1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/negative1.png" align="center" width="200" height="200"></a>
 </p>
 
 ### positive case
 
 <p align="center">
-<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/positive1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/positive1.png" align="center" width="300" height="300"></a>
+<a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/positive1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/positive1.png" align="center" width="200" height="200"></a>
 </p>
 
 ## Deep MLP Architecture (Classifier)
@@ -110,3 +110,16 @@ Video Explaination: https://youtu.be/BOoBWRTpaKk
 <p align="center">
 <a href="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/mlp1.png"><img src="https://github.com/mo26-web/Chest-X-Ray-Image_Segmentation_ResUNet-/blob/main/images/mlp1.png" align="center"></a>
 </p>
+
+### Results for Feature extraction (InceptionResNetV2) and Classification
+Use pretrained InceptionResNetV2 for feature extraction.
+
+|               | precision     |recall    |f1-score |support|
+| ------------- |:-------------:| :-----: |:-----:   |-----:   |
+| Tuberculosis negative cases   | 0.80         | 0.88  |  0.84  |  77 |
+| Tuberculosis positive cases   |0.88          |  0.80  |  0.84   |    83  |
+| accuracy                      | 0.84         |  0.84  |  0.84      |    160   |
+
+### Results for Feature extraction (ResNet50) and Classification
+
+### Results for Feature extraction (VGG16) and Classification
